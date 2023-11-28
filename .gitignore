@@ -1,0 +1,14 @@
+node_modules
+allure-report
+allure-results
+package-lock.json
+yarn.lock
+.vscode
+configs/wdio.conf.ts
+jenkins.war
+package-lock.json
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache
+.github
